@@ -1,0 +1,9 @@
+GPA
+By: Ian Luo
+Language: PHP + HTML/CSS
+
+This is a simple PHP script for calculating a student's grade point average.
+Users select their grades in a dropdown and the algorithm calculates the GPA.
+
+Designed for the IB and International School of Manila, but can be modified for other uses.
+Website design is not original.
